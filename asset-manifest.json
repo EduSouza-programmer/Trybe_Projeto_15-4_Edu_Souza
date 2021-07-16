@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Trybe_Projeto_15-4_Edu_Souza/static/css/main.09a6b5bc.chunk.css",
-    "main.js": "/Trybe_Projeto_15-4_Edu_Souza/static/js/main.b1d56999.chunk.js",
-    "main.js.map": "/Trybe_Projeto_15-4_Edu_Souza/static/js/main.b1d56999.chunk.js.map",
+    "main.js": "/Trybe_Projeto_15-4_Edu_Souza/static/js/main.782cc14e.chunk.js",
+    "main.js.map": "/Trybe_Projeto_15-4_Edu_Souza/static/js/main.782cc14e.chunk.js.map",
     "runtime-main.js": "/Trybe_Projeto_15-4_Edu_Souza/static/js/runtime-main.fa3fb353.js",
     "runtime-main.js.map": "/Trybe_Projeto_15-4_Edu_Souza/static/js/runtime-main.fa3fb353.js.map",
     "static/js/2.f740f939.chunk.js": "/Trybe_Projeto_15-4_Edu_Souza/static/js/2.f740f939.chunk.js",
     "static/js/2.f740f939.chunk.js.map": "/Trybe_Projeto_15-4_Edu_Souza/static/js/2.f740f939.chunk.js.map",
     "index.html": "/Trybe_Projeto_15-4_Edu_Souza/index.html",
-    "precache-manifest.67fbf36298ea4b9949dee7dff5d02c7c.js": "/Trybe_Projeto_15-4_Edu_Souza/precache-manifest.67fbf36298ea4b9949dee7dff5d02c7c.js",
+    "precache-manifest.e07a5fac26cf59d78abb20dd23992554.js": "/Trybe_Projeto_15-4_Edu_Souza/precache-manifest.e07a5fac26cf59d78abb20dd23992554.js",
     "service-worker.js": "/Trybe_Projeto_15-4_Edu_Souza/service-worker.js",
     "static/css/main.09a6b5bc.chunk.css.map": "/Trybe_Projeto_15-4_Edu_Souza/static/css/main.09a6b5bc.chunk.css.map",
     "static/js/2.f740f939.chunk.js.LICENSE.txt": "/Trybe_Projeto_15-4_Edu_Souza/static/js/2.f740f939.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fa3fb353.js",
     "static/js/2.f740f939.chunk.js",
     "static/css/main.09a6b5bc.chunk.css",
-    "static/js/main.b1d56999.chunk.js"
+    "static/js/main.782cc14e.chunk.js"
   ]
 }
