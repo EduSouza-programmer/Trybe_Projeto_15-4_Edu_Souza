@@ -41,7 +41,7 @@ Você vai desenvolver testes para cada requisito implementado em sua Pokédex du
 #### Screenshots:
 
 <p align=center >
-  <img height="200px"  src="./img/home_desktop.png"> &nbsp;
+  <img height="200px"  src="img/home_desktop.png"> &nbsp;
 </p>
 
 ## :postbox: Entrega
