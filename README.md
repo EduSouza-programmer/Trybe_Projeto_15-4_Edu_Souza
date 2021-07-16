@@ -36,7 +36,7 @@
 
 #### Frontend online store 
 
-Você vai desenvolver testes para cada requisito implementado em sua Pokédex durante os últimos dias, garantindo assim sua corretude
+Você vai desenvolver testes para cada requisito implementado em sua Pokédex durante os últimos dias, garantindo assim sua corretude.
 
 #### Screenshots:
 
