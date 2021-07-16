@@ -59,7 +59,7 @@ Você vai desenvolver testes para cada requisito implementado em sua Pokédex du
   
 ### Concluído :rocket:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_14-2_Edu_Souza/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_15-4_Edu_Souza/).
 
 #
 ## :unlock: Licença

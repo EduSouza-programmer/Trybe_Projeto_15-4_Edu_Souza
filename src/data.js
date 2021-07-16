@@ -7,7 +7,7 @@ const pokemons = [
       value: '6.0',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/6/6e/Spr_5b_025_f.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626466359/pikachu_n0am7h.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -29,7 +29,7 @@ const pokemons = [
       value: '8.5',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/0/0a/Spr_5b_004.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626466486/Charmander_g9gbpw.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -59,7 +59,7 @@ const pokemons = [
       value: '2.9',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/8/83/Spr_5b_010.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626466694/Caterpie_lmpbrq.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Caterpie_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -81,7 +81,7 @@ const pokemons = [
       value: '6.9',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/1/18/Spr_5b_023.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626466813/Ekans_zcwixj.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Ekans_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -99,7 +99,7 @@ const pokemons = [
       value: '48.0',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/4/46/Spr_5b_065_f.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626466903/Alakazam_vwjds9.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Alakazam_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -117,7 +117,7 @@ const pokemons = [
       value: '4.0',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/4/43/Spr_5b_151.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626466998/Mew_hf4qjs.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Mew_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -135,7 +135,7 @@ const pokemons = [
       value: '95.0',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/5/58/Spr_5b_078.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626467071/Rapidash_s49lhe.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Rapidash_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -157,7 +157,7 @@ const pokemons = [
       value: '460.0',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/7/76/Spr_5b_143_s.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626467144/Snorlax_dbcuv7.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Snorlax_(Pok%C3%A9mon)',
     foundAt: [
       {
@@ -175,7 +175,7 @@ const pokemons = [
       value: '16.5',
       measurementUnit: 'kg',
     },
-    image: 'https://archives.bulbagarden.net/media/upload/2/2c/Spr_5b_148.png',
+    image: 'https://res.cloudinary.com/dppr8dksd/image/upload/v1626467216/Dragonair_w1avqz.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Dragonair_(Pok%C3%A9mon)',
     foundAt: [
       {
